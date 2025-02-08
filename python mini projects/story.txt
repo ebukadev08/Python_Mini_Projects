@@ -1,0 +1,5 @@
+A Day at the Zoo
+
+Today, my best friend <name> and I went to the zoo. We saw a(n) <adjective> <animal> jumping up and down in its cage. The zookeeper told us its favorite food is <food>, so we offered it some. Next, we went to see the <plural_noun>, which were <verb_ending_in_ing> in a <place>.
+
+Then, we noticed a(n) <adjective> <animal> sneaking around the <object>. It was so <emotion>! Before leaving, we stopped by the gift shop and bought a <noun> to remember the <adjective> day we had.
